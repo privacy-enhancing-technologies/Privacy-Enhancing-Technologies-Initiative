@@ -47,8 +47,10 @@ By using Apache 2.0, LF PET ensures contributors and users have clear rights to 
 **Additional Resources**
 
 For more information and detailed documentation, see the project’s online resources:
-- GitHub Wiki: Visit the LF PET GitHub Wiki for design documents, API references, meeting notes, and other technical resources.
-- Technical Meetings: The Technical Meetings wiki page archives all meeting agendas and minutes for historical reference.
-- Linux Foundation PET Overview: We will publish an overview of the PET project on the Linux Foundation website and community pages (watch for updates on linuxfoundation.org).
+- **GitHub Wiki:** Visit the LF PET GitHub Wiki for design documents, API references, meeting notes, and other technical resources.
+- **Technical Meetings:** The Technical Meetings wiki page archives all meeting agendas and minutes for historical reference.
+- **Linux Foundation PET Overview:** We will publish an overview of the PET project on the Linux Foundation website and community pages (watch for updates on linuxfoundation.org).
+
 These resources are regularly updated by the community. Stay tuned to the mailing list and Wiki for the latest developments.
-References: The above information is drawn from the Linux Foundation’s community guidelines and related projects. For background on PETs, see Privacy-Enhancing Technologies (PETs) are defined as solutions that “minimize personal data use, maximize data security, and empower individuals”. The Linux Foundation emphasizes that privacy-preserving tech is foundational for trust and innovation. Together, LF PET’s governance, communications channels, and open approach reflect these principles.
+
+**References**: The above information is drawn from the Linux Foundation’s community guidelines and related projects. For background on PETs, see Privacy-Enhancing Technologies (PETs) are defined as solutions that “minimize personal data use, maximize data security, and empower individuals”. The Linux Foundation emphasizes that privacy-preserving tech is foundational for trust and innovation. Together, LF PET’s governance, communications channels, and open approach reflect these principles.
