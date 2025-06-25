@@ -14,9 +14,9 @@ The long-term vision of LF PET is a thriving ecosystem of interoperable PET tool
 **Governance**
 
 LF PET’s governance framework is being established through key charter and agreement documents.  These outline the project’s mission, scope, and processes.  Current draft documents include:
-- **Technical Charter (Draft):** Privacy Enhancing Tech Technical Charter (defines project scope and governance structure)
-- **Contribution Agreement (Draft):** Privacy Enhancing Tech Contribution Agreement (standard Linux Foundation contributor license terms)
-- **Series Agreement (Draft):** Privacy Enhancing Tech Series Agreement (for collaborative series of projects, if applicable)
+- **Technical Charter (Draft):** Privacy Enhancing Tech Technical Charter (defines project scope and governance structure) https://docs.google.com/open?id=11fBWEuXaoclo5EtK8_ZWtY9JVB_ISA31v66HEKtyubU
+- **Contribution Agreement (Draft):** Privacy Enhancing Tech Contribution Agreement (standard Linux Foundation contributor license terms) https://docs.google.com/open?id=192RPZ__crOh7L9o4OgEoZgZjUPyD1tnD47QMyFRI4Mw
+- **Series Agreement (Draft):** Privacy Enhancing Tech Series Agreement (for collaborative series of projects, if applicable) https://docs.google.com/document/d/1iIc1wDPuClA09Hk807B1-Wy-FSN7H4MEE6JvTo1SIF0/edit?tab=t.0
 These living documents guide how the project is managed and how community members can participate.  Once finalized, they will be published on the LF PET site and linked from this README.
 
 **Community Collaboration**
