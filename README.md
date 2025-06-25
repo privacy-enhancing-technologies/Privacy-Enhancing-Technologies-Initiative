@@ -21,7 +21,7 @@ These living documents guide how the project is managed and how community member
 
 **Community Collaboration**
 
-Community involvement is central to LF PET.  We maintain a public mailing list for ongoing discussion and design proposals. To join the conversation, subscribe to the technical-discuss@lists.privacyenhancingtech.org mailing list here: privacyenhancingtech.org/g/technical-discuss.  This forum is the primary place for announcements, design discussions, and community Q&A.  New contributors are encouraged to introduce themselves on the list, ask questions, and propose new ideas.
+Community involvement is central to LF PET.  We maintain a public mailing list for ongoing discussion and design proposals. To join the conversation, subscribe to the technical-discuss@lists.privacyenhancingtech.org mailing list here: https://lists.privacyenhancingtech.org/g/technical-discuss/.  This forum is the primary place for announcements, design discussions, and community Q&A.  New contributors are encouraged to introduce themselves on the list, ask questions, and propose new ideas.
 In addition, we welcome participation via GitHub. Use the issue tracker to report bugs or suggest features, and submit pull requests on the lfpet/pet GitHub repository. Be sure to review the project’s Code of Conduct and Contribution Guidelines (see the CONTRIBUTING.md file) before contributing.  We strive for an open, respectful community where any contributor can help improve the technology.
 
 **Meetings**
