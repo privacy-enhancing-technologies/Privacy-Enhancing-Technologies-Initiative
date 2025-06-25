@@ -56,4 +56,5 @@ These resources are regularly updated by the community. Stay tuned to the mailin
 **References**: The above information is drawn from the Linux Foundation’s community guidelines and related projects. For background on PETs, see Privacy-Enhancing Technologies (PETs) are defined as solutions that “minimize personal data use, maximize data security, and empower individuals”. The Linux Foundation emphasizes that privacy-preserving tech is foundational for trust and innovation. Together, LF PET’s governance, communications channels, and open approach reflect these principles.
 
 **Wiki**
+
 https://github.com/lfpet/pet/wiki/PET-Initiative-%E2%80%90-Supporting-Organizations
