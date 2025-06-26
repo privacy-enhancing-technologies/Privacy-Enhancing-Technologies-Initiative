@@ -1,7 +1,8 @@
 ![lf-horizontal-knockout](https://github.com/user-attachments/assets/80977790-d85f-4ca1-b1cf-a7fe7b19775e)
 
 **Linux Foundation Privacy Enhancing Technologies (PET) Initiative**
-![20250626-000141](https://github.com/user-attachments/assets/7b87908d-beea-418c-abbf-46160edec69f)
+![lf_pet_logo_v2](https://github.com/user-attachments/assets/67dea400-cc81-4084-a024-61b80336ba03)
+
 
 
 The Linux Foundation Privacy Enhancing Technologies (LF PET) Initiative is a community-driven initiative dedicated to the development and support of open-source privacy-enhancing technologies. Privacy-enhancing technologies, or PETs, are tools and techniques designed to minimize personal data use and maximize data security while empowering individuals. By bringing together industry, academic, and open source contributors, the LF PET Initiative aims to foster collaboration and innovation in PET solutions (such as secure multi-party computation, federated learning, homomorphic encryption, confidential computing, and other privacy-preserving methods).  The goal is to make advanced PETs broadly accessible and interoperable. As one Linux Foundation leader observed, PETs like secure MPC are “critical for building trust across data-driven industries” and preserving values of data protection. Through open governance and shared resources, LF PET helps ensure these technologies are developed in a transparent and sustainable way.
