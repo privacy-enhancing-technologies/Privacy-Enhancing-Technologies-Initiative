@@ -52,8 +52,8 @@ By using Apache 2.0, LF PET ensures contributors and users have clear rights to 
 **Additional Resources**
 
 For more information and detailed documentation, see the project’s online resources:
-- **GitHub Wiki:** Visit the LF PET GitHub Wiki for design documents, API references, meeting notes, and other technical resources.
-- **Technical Meetings:** The Technical Meetings wiki page archives all meeting agendas and minutes for historical reference.
+- **GitHub Wiki:** Visit the LF PET GitHub Wiki for design documents, API references, meeting notes, and other technical resources. [Home](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki)
+- **Technical Meetings:** The Technical Meetings wiki page archives all meeting agendas and minutes for historical reference. - [LF PET Technical Meetings](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Technical-Meetings)
 - **Linux Foundation PET Overview:** We will publish an overview of the PET project on the Linux Foundation website and community pages (watch for updates on linuxfoundation.org).
 
 These resources are regularly updated by the community. Stay tuned to the mailing list and Wiki for the latest developments.
