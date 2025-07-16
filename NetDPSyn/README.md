@@ -1,8 +1,8 @@
-# [IMC'24] NetDPSyn: Synthesizing Network Traces under Differential Privacy
+# NetDPSyn: Synthesizing Network Traces under Differential Privacy
 
 ## Introduction
 
-This repository contains code for the paper: NetDPSyn: Synthesizing Network Traces under Differential Privacy. NetDPSyn is the first system to synthesize high-fidelity network traces under privacy guarantees.
+This repository contains code for the paper: NetDPSyn: Synthesizing Network Traces under Differential Privacy. NetDPSyn is the first system to synthesize high-fidelity network traces under privacy guarantees. This work is developed under the [UCI DSP Lab](https://faculty.sites.uci.edu/zhouli/research/).
 
 ## Experimental setup
 1. Clone this repo from the GitHub.
@@ -45,6 +45,17 @@ This repository contains code for the paper: NetDPSyn: Synthesizing Network Trac
 
 
 ## Citation
-If you find our work useful for your research, please consider citing the paper: Coming Soon.
+If you find our work useful for your research, please consider citing the paper: 
+```
+@misc{sun2024netdpsynsynthesizingnetworktraces,
+      title={NetDPSyn: Synthesizing Network Traces under Differential Privacy}, 
+      author={Danyu Sun and Joann Qiongna Chen and Chen Gong and Tianhao Wang and Zhou Li},
+      year={2024},
+      eprint={2409.05249},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2409.05249}, 
+}
+```
 
 
