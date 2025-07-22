@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains code for the paper: NetDPSyn: Synthesizing Network Traces under Differential Privacy. NetDPSyn is the first system to synthesize high-fidelity network traces under privacy guarantees. This work is developed under the [UCI DSP Lab](https://faculty.sites.uci.edu/zhouli/research/).
+This repository contains code for the paper: NetDPSyn: Synthesizing Network Traces under Differential Privacy. NetDPSyn is the first system to synthesize high-fidelity network traces under privacy guarantees.
 
 ## Experimental setup
 
