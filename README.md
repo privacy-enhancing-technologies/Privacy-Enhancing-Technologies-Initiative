@@ -65,6 +65,7 @@ These resources are regularly updated by the community. Stay tuned to the mailin
 [Home](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki)
 - [LF PET Events](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Events)
 - [LF PET Initiative Documents](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Initiative-Documents)
+- [LF PET Initiative Mailing List](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Initiative-mailing-list)
 - [LF PET Initiative Presentations](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Initiative-Presentations)
 - [LF PET Initiative TSC](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Initiative-Technical-Steering-Committee-(TSC))
 - [LF PET Initiative ‐ Supporting Organizations](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Initiative-%E2%80%90-Supporting-Organizations)
