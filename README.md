@@ -1,6 +1,4 @@
-![lf-horizontal-knockout](https://github.com/user-attachments/assets/80977790-d85f-4ca1-b1cf-a7fe7b19775e)
-
-**Linux Foundation Privacy Enhancing Technologies (PET) Initiative**
+**Privacy Enhancing Technologies (PET) Initiative**
 ![lf_pet_logo_v2](https://github.com/user-attachments/assets/67dea400-cc81-4084-a024-61b80336ba03)
 
 
