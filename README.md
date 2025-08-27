@@ -62,11 +62,14 @@ These resources are regularly updated by the community. Stay tuned to the mailin
 
 **Wiki**
 
-[Home](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki)
-- [LF PET Events](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Events)
-- [LF PET Initiative Documents](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Initiative-Documents)
-- [LF PET Initiative Mailing List](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Initiative-mailing-list)
-- [LF PET Initiative Presentations](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Initiative-Presentations)
-- [LF PET Initiative TSC](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Initiative-Technical-Steering-Committee-(TSC))
-- [LF PET Initiative ‐ Supporting Organizations](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Initiative-%E2%80%90-Supporting-Organizations)
-- [LF PET Technical Meetings](https://github.com/lfpet/Linux-Foundation-Privacy-Enhancing-Technologies-Initiative/wiki/LF-PET-Technical-Meetings)
+[Home](https://github.com/privacy-enhancing-technologies/Privacy-Enhancing-Technologies-Initiative/wiki)
+- [PET Initiative Code Contribution Process](https://github.com/privacy-enhancing-technologies/Privacy-Enhancing-Technologies-Initiative/wiki/PET-Initiative-Code-Contribution-Process)
+- [PET Initiative Documents](https://github.com/privacy-enhancing-technologies/Privacy-Enhancing-Technologies-Initiative/wiki/PET-Initiative-Documents)
+- [PET Initiative Events](https://github.com/privacy-enhancing-technologies/Privacy-Enhancing-Technologies-Initiative/wiki/PET-Initiative-Events)
+- [PET Initiative Mailing List and Slack Channel](https://github.com/privacy-enhancing-technologies/Privacy-Enhancing-Technologies-Initiative/wiki/PET-Initiative-mailing-list-and-Slack-Channel)
+- [PET Initiative Presentations](https://github.com/privacy-enhancing-technologies/Privacy-Enhancing-Technologies-Initiative/wiki/PET-Initiative-Presentations)
+- [PET Initiative ‐ Supporting Organizations](https://github.com/privacy-enhancing-technologies/Privacy-Enhancing-Technologies-Initiative/wiki/PET-Initiative-Supporting-Organizations)
+- [PET Technical Meetings](https://github.com/privacy-enhancing-technologies/Privacy-Enhancing-Technologies-Initiative/wiki/PET-Initiative-Technical-Meetings)
+- [PET Initiative TSC](https://github.com/privacy-enhancing-technologies/Privacy-Enhancing-Technologies-Initiative/wiki/PET-Initiative-Technical-Steering-Committee-(TSC))
+- [PET Initiative YouTube Channel](https://github.com/privacy-enhancing-technologies/Privacy-Enhancing-Technologies-Initiative/wiki/PET-Initiative-YouTube-Channel)
+
